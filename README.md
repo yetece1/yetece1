@@ -25,12 +25,12 @@
 <p><a target="_blank" href="https://www.instagram.com/x_ytc" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=favilances&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=favilances&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=yetece1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yetece1&theme=dark&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=favilances&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yetece1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
